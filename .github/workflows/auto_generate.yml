@@ -25,7 +25,7 @@ jobs:
     - name: Commit & Push
       uses: action-x/commit@v2.9
       with:
-        github-token: ${{ secrets.GITHUB_TOKEN }}
+        github-token: ${{ secrets.GH_TOKEN }}
         push-branch: 'main'
         rebase: 'true'
         commit-message: 'Generate Json'
