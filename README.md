@@ -1,6 +1,6 @@
 # 友链数据源
 
-友链页面: [https://xaoxuu.com/friends/](https://uniiem.com/friends)
+友链页面: [https://uniiem.com/friends](https://uniiem.com/friends)
 
 ## 友链要求
 
